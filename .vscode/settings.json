@@ -1,0 +1,8 @@
+{
+    "clangd.arguments": [
+        "--completion-style=detailed",
+        "--compile-commands-dir=build",
+        "--fallback-style=WebKit",
+        "--header-insertion=never"
+    ]
+}
